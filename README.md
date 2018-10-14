@@ -1,2 +1,2 @@
-# hello-world
+# HELLO UNIVERSE
 just a repository
